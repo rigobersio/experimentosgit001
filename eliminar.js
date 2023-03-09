@@ -16,9 +16,9 @@ en git (ni siquiera admite git add tiene que ser commit
 9. ni las ediciones ni el el nuevo archivo aparecen:
 la gran diferencia es commit
 10. se va a hacer un merge y luego una comprobacion en github
-
-
-
+11. no hay cambios en github. luego del merge pasaron los commit
+de main2. git status indica todo ok. se a hacer un push
+12 el git push subio todo pero sigue existindo main 2 en github
 
 
 `
