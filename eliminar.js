@@ -13,6 +13,9 @@ nuevamente se elimino y se volvio a crear, inmediatamente
 7. ahora si hay diferencia: no se puede cambiar de rama sin guardar cambios
 en git (ni siquiera admite git add tiene que ser commit
 8. aparte de editar este archivo se creara otro archivo en blanco
+9. ni las ediciones ni el el nuevo archivo aparecen:
+la gran diferencia es commit
+10. se va a hacer un merge y luego una comprobacion en github
 
 
 
